@@ -7,9 +7,12 @@
         "inception",
         "css3",
         "html5",
-        "javascript"
+        "javascript",
+        "enterin",
+        "effect",
+        "effects"
     ],
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": {
         "name": "Gianfilippo Balestriero",
         "url": "http://enterin.github.io"
