@@ -22,7 +22,7 @@ EnterIN
 &lt;/div&gt;
 </pre>							
 
-<h3>Set property CSS rulers</h3>
+<h3>Set property CSS rules</h3>
 Example:
 <br>
 <pre>
