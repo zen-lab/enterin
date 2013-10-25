@@ -1,40 +1,31 @@
 {
-    "name": "enterin",
-    "title": "EnterIN",
-    "description": "An Inception Effect plugin for jQuery!",
-    "keywords": [
-        "jquery",
-        "inception",
-        "css3",
-        "html5",
-        "javascript",
-        "enterin",
-        "effect",
-        "effects"
-    ],
-    "version": "1.0.1",
-    "author": {
-        "name": "Gianfilippo Balestriero",
-        "url": "http://enterin.github.io"
-    },
-    "maintainers": [
-        {
-            "name": "Gianfilippo Balestriero",
-            "email": "enterin.github@gmail.com",
-            "url": "http://enterin.github.io"
+        "name": "enterin",
+        "title": "EnterIN",
+        "description": "An Inception Effect plugin for jQuery!",
+        "keywords": [
+                "jquery",
+                "effects",
+                "inception",
+                "enterin",
+                "css3",
+                "html5",
+                "javascript"
+        ],
+        "version": "1.0.1",
+        "author": {
+                "name": "Gianfilippo Balestriero",
+                "url" : "http://enterin.github.io"
+        },
+        "licenses": [
+                {
+                        "type": "Apache2",
+                        "url": "https://github.com/Enterin/enterin/blob/master/LICENSE"
+                }
+        ],
+	    "bugs": "https://github.com/Enterin/enterin/issues",
+	    "homepage": "http://enterin.github.io",
+	    "docs": "http://enterin.github.io",
+        "dependencies": {
+                "jquery": ">=1.7.1"
         }
-    ],
-    "licenses": [
-        {
-            "type": "APACHE2",
-            "url": "https://github.com/Enterin/enterin/blob/master/LICENSE"
-        }
-    ],
-    "bugs": "https://github.com/Enterin/enterin/issues",
-    "homepage": "http://enterin.github.io",
-    "docs": "http://enterin.github.io",
-    "download": "https://github.com/Enterin/enterin",
-    "dependencies": {
-        "jquery": ">=1.5"
-    }
 }
