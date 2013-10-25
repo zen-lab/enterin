@@ -3,7 +3,7 @@ EnterIN
 
 An Inception Effect plugin for jQuery!
 
-					<h3>Write HTML logic</h3>
+<h3>Write HTML logic</h3>
 <pre>
 &lt;div id=&quot;enterin-wrapper&quot;&gt;
    &lt;div class=&quot;enterin-slide slide1&quot;&gt;&lt;/div&gt;
@@ -22,9 +22,10 @@ An Inception Effect plugin for jQuery!
 &lt;/div&gt;
 </pre>							
 
-					<h3>Set property CSS rulers</h3>
-					Example:
-					<br><br>
+<h3>Set property CSS rulers</h3>
+Example:
+<br>
+<br>
 <pre>
 #enterin-wrapper,
 #enterin-wrapper .enterin-slide
@@ -48,7 +49,7 @@ An Inception Effect plugin for jQuery!
 ...
 </pre>					
 
-					<h3>Add jQuery and EnterIN .js at end of document</h3>
+<h3>Add jQuery and EnterIN .js at end of document</h3>
 <pre>
    ...
    &lt;script src=&quot;path/to/js/jquery.min.js&quot;&gt;&lt;/script&gt;
@@ -56,7 +57,7 @@ An Inception Effect plugin for jQuery!
 &lt;/body&gt;
 </pre>	
 
-					<h3>Call EnterIN</h3>
+<h3>Call EnterIN</h3>
 <pre>
 &lt;script&gt;
 
