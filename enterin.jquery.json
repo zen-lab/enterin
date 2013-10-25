@@ -1,0 +1,34 @@
+{
+    "name": "enterin",
+    "title": "EnterIN",
+    "description": "An Inception Effect plugin for jQuery!",
+    "keywords": [
+        "color",
+        "animation"
+    ],
+    "version": "1.0.0",
+    "author": {
+        "name": "Gianfilippo Balestriero",
+        "url": "http://enterin.github.io"
+    },
+    "maintainers": [
+        {
+            "name": "Gianfilippo Balestriero",
+            "email": "enterin.github@gmail.com",
+            "url": "http://enterin.github.io"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "APACHE2",
+            "url": "https://github.com/Enterin/enterin/blob/master/LICENSE"
+        }
+    ],
+    "bugs": "https://github.com/Enterin/enterin/issues",
+    "homepage": "http://enterin.github.io",
+    "docs": "http://enterin.github.io",
+    "download": "https://github.com/Enterin/enterin",
+    "dependencies": {
+        "jquery": ">=1.5"
+    }
+}
