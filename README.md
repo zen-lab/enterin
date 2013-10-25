@@ -1,7 +1,7 @@
 EnterIN
 =======
 
-<quote>An Inception Effect plugin for jQuery!</quote>
+<blockquote>An Inception Effect plugin for jQuery!</blockquote>
 
 <h3>Write HTML logic</h3>
 <pre>
