@@ -25,7 +25,6 @@ An Inception Effect plugin for jQuery!
 <h3>Set property CSS rulers</h3>
 Example:
 <br>
-<br>
 <pre>
 #enterin-wrapper,
 #enterin-wrapper .enterin-slide
@@ -73,3 +72,5 @@ jQuery("#enterin-wrapper").enterin({
 
 &lt;/script&gt;
 </pre>	
+
+&copy; 2013 Gianfilippo Balestriero under <a target="_blank" href="http://www.apache.org/licenses/LICENSE-2.0">Apache License, Version 2.0</a>
