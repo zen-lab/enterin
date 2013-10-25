@@ -3,8 +3,11 @@
     "title": "EnterIN",
     "description": "An Inception Effect plugin for jQuery!",
     "keywords": [
-        "color",
-        "animation"
+        "jquery",
+        "inception",
+        "css3",
+        "html5",
+        "javascript"
     ],
     "version": "1.0.0",
     "author": {
