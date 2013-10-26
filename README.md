@@ -25,7 +25,7 @@
 
 Example: 
 
-```html
+```css
 #enterin-wrapper,
 #enterin-wrapper .enterin-slide
 {
@@ -76,4 +76,4 @@ Example:
 	</script>
 ```
 
-© 2013 Gianfilippo Balestriero under Apache License, Version 2.0
+© 2013 Gianfilippo Balestriero under [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
