@@ -1,31 +1,31 @@
-EnterIN
-=======
+# EnterIN
 
 <blockquote>An Inception Effect plugin for jQuery!</blockquote>
 
-<h3>Write HTML logic</h3>
-<pre>
-&lt;div id=&quot;enterin-wrapper&quot;&gt;
-   &lt;div class=&quot;enterin-slide slide1&quot;&gt;&lt;/div&gt;
-   &lt;div class=&quot;enterin-slide slide2&quot;&gt;&lt;/div&gt;
-   &lt;div class=&quot;enterin-slide slide3&quot;&gt;&lt;/div&gt;
-   &lt;div class=&quot;enterin-slide slide4&quot;&gt;&lt;/div&gt;
-   &lt;div class=&quot;enterin-slide slide5&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
+### Write HTML logic
+```html
+<div id="enterin-wrapper">
+   <div class="enterin-slide slide1"></div>
+   <div class="enterin-slide slide2"></div>
+   <div class="enterin-slide slide3"></div>
+   <div class="enterin-slide slide4"></div>
+   <div class="enterin-slide slide5"></div>
+</div>
 
-&lt;div id=&quot;enterin-ctrl&quot;&gt;
-   &lt;a href=&quot;javascript:;&quot; data-enterin=&quot;1&quot;&gt;Slide 1&lt;/a&gt;
-   &lt;a href=&quot;javascript:;&quot; data-enterin=&quot;2&quot;&gt;Slide 2&lt;/a&gt;
-   &lt;a href=&quot;javascript:;&quot; data-enterin=&quot;3&quot;&gt;Slide 3&lt;/a&gt;
-   &lt;a href=&quot;javascript:;&quot; data-enterin=&quot;4&quot;&gt;Slide 4&lt;/a&gt;
-   &lt;a href=&quot;javascript:;&quot; data-enterin=&quot;5&quot;&gt;Slide 5&lt;/a&gt;
-&lt;/div&gt;
-</pre>							
+<div id="enterin-ctrl">
+   <a href="javascript:;" data-enterin="1">Slide 1</a>
+   <a href="javascript:;" data-enterin="2">Slide 2</a>
+   <a href="javascript:;" data-enterin="3">Slide 3</a>
+   <a href="javascript:;" data-enterin="4">Slide 4</a>
+   <a href="javascript:;" data-enterin="5">Slide 5</a>
+</div>
+```
 
-<h3>Set property CSS rules</h3>
-Example:
-<br>
-<pre>
+### Set property CSS rules
+
+Example: 
+
+```html
 #enterin-wrapper,
 #enterin-wrapper .enterin-slide
 {
@@ -46,31 +46,34 @@ Example:
    background: #999999;
 }
 ...
-</pre>					
 
-<h3>Add jQuery and EnterIN .js at end of document</h3>
-<pre>
+```
+
+### Add jQuery and EnterIN .js at end of document
+
+```html
    ...
-   &lt;script src=&quot;path/to/js/jquery.min.js&quot;&gt;&lt;/script&gt;
-   &lt;script src=&quot;path/to/js/jquery.enterin.min.js&quot;&gt;&lt;/script&gt;
-&lt;/body&gt;
-</pre>	
+   <script src="path/to/js/jquery.min.js"></script>
+   <script src="path/to/js/jquery.enterin.min.js"></script>
+</body>
+```
 
-<h3>Call EnterIN</h3>
-<pre>
-&lt;script&gt;
+### Call EnterIN
 
-jQuery("#enterin-wrapper").enterin({
-   controllers:	'#enterin-ctrl',
-   maxScale: 20,
-   effectTime: 3.0,
-   ease: 'linear',
-   endCallback:	function(current_index) {
-      // your code here
-   }
-});
+```html
+	<script>
+	
+	jQuery("#enterin-wrapper").enterin({
+	   controllers: '#enterin-ctrl',
+	   maxScale: 20,
+	   effectTime: 3.0,
+	   ease: 'linear',
+	   endCallback: function(current_index) {
+	      // your code here
+	   }
+	});
+	
+	</script>
+```
 
-&lt;/script&gt;
-</pre>	
-
-&copy; 2013 Gianfilippo Balestriero under <a target="_blank" href="http://www.apache.org/licenses/LICENSE-2.0">Apache License, Version 2.0</a>
+© 2013 Gianfilippo Balestriero under Apache License, Version 2.0
