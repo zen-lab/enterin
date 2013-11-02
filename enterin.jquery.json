@@ -1,7 +1,7 @@
 {
         "name": "enterin",
         "title": "EnterIN",
-        "description": "An Inception Effect plugin for jQuery!",
+        "description": "Redraws the pages of the internet",
         "keywords": [
                 "jquery",
                 "effects",
@@ -11,7 +11,7 @@
                 "html5",
                 "javascript"
         ],
-        "version": "1.0.0201325103",
+        "version": "2.0.020130211",
         "author": {
                 "name": "Gianfilippo Balestriero",
                 "url" : "http://www.facebook.com/gian.balex.nap"
