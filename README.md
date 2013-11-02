@@ -2,7 +2,8 @@
 
 # V 2.0 is here!
 
-#### Addedd a new function
+#### Added a new function
+
 ```html
 <script>
 $("#enterin-id").enterin.goToSlide(index);
@@ -10,6 +11,7 @@ $("#enterin-id").enterin.goToSlide(index);
 ```
 
 ### Write HTML logic
+
 ```html
 <div id="enterin-wrapper">
    <div class="enterin-slide slide1"></div>
