@@ -1,5 +1,14 @@
 [![EnterIN](http://enterin.github.io/img/b-enterin.jpg)](http://enterin.github.io)
 
+# V 2.0 is here!
+
+#### Addedd a new function
+```html
+<script>
+$("#enterin-id").enterin.goToSlide(index);
+</script>
+```
+
 ### Write HTML logic
 ```html
 <div id="enterin-wrapper">

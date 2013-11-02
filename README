@@ -2,7 +2,16 @@ EnterIN
 
 An Inception Effect plugin for jQuery!
 
+V 2.0 is here!
+
 ==============================================================================================================
+
+Addedd a new function
+
+<script>
+$("#enterin-id").enterin.goToSlide(index);
+</script>
+
 
 Write HTML logic
 
