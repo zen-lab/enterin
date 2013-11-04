@@ -1,7 +1,7 @@
 /*
 * EnterIN jQuery Plugin v2.0
 * 
-* Copyright 2013 Gianfilippo Balestriero
+* Copyright 2013 Gianfilippo Balestriero < enterin.github@gmail.com >
 *
 * Licensed under the Apache License, Version 2.0 (the "License");
 * you may not use this file except in compliance with the License.
